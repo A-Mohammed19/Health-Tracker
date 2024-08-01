@@ -1,1 +1,2 @@
 # Health-Tracker
+This program is taking in data from an input file and storing it into a linked list. There are several categories as to how the data is sorted and recalled. Operated via user input, the user has the ability to determine the oputput of the linked list. The user has can choose from printing the whole list, printing based on gaol(weight loss/ muscle gain),gender, BMI, and name. You can also choose to delete a specific record in the input file, this will be acted upon based on name.
